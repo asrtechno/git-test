@@ -1,2 +1,2 @@
 # git-test
-Sample 
+Sample test
